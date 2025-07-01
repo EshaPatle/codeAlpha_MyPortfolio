@@ -21,5 +21,5 @@
 
 🔗 Project Demo  
 🌍 Live Site: [https://eshapatle.github.io/codeAlpha_MyPortfolio/]  
-📂 GitHub: [https://github.com/Eshapatle/codeAlpha_Portfolio]  
+📂 GitHub: [https://github.com/Eshapatle/codeAlpha_MyPortfolio]  
 🖇 LinkedIn: [https://www.linkedin.com/in/esha-patle-10371330b]
