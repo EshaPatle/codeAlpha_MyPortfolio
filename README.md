@@ -20,6 +20,6 @@
     JavaScript
 
 🔗 Project Demo  
-🌍 Live Site: [https://eshapatle.github.io/codeAlpha_Portfolio/]  
+🌍 Live Site: [https://eshapatle.github.io/codeAlpha_MyPortfolio/]  
 📂 GitHub: [https://github.com/Eshapatle/codeAlpha_Portfolio]  
 🖇 LinkedIn: [https://www.linkedin.com/in/esha-patle-10371330b]
